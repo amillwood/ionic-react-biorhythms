@@ -1,8 +1,6 @@
 # Biorhythm Calculator
 
-This example is part of the Ionic React course.
+This example is part of an Ionic React course.  Utilizes recharts for the plot.
 
-## Links
-
- * [Biorhythm](https://en.wikipedia.org/wiki/Biorhythm) Wikipedia entry
- * [Biorhythm Calculator](https://keisan.casio.com/exec/system/1340246447) by Casio
+## Usage
+download the repo and use the command "npm start" to launch the project locally
